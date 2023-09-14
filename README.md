@@ -3,9 +3,11 @@
 <h3 align="center">A Data science, AI/ML, software developement enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pdhawanjewar07&label=Profile%20views&color=0e75b6&style=flat" alt="pdhawanjewar07" /> </p>
-<a href="https://pdhawanjewar07.github.io/portfolio/">
-  <img src="https://st2.depositphotos.com/1014627/5190/v/450/depositphotos_51909293-stock-illustration-flat-conception-case-and-papers.jpg" width="120" height="120">
+<a href="https://pdhawanjewar07.github.io/portfolio/" style="text-decoration: none; color: #FF0000; font-family: Arial, sans-serif; font-size: 16px;">
+  <img src="https://st2.depositphotos.com/1014627/5190/v/450/depositphotos_51909293-stock-illustration-flat-conception-case-and-papers.jpg" width="110" height="110">
+  My Portfolio
 </a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
