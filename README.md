@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
-<h3 align="center">A Data science, AI/ML, software developement enthusiast <p align="right"> <img src="https://komarev.com/ghpvc/?username=pdhawanjewar07&label=Profile%20views&color=0e75b6&style=flat" alt="pdhawanjewar07" /> </p>
+<h3 align="left">A Data science, AI/ML, software developement enthusiast <p align="right"> <img src="https://komarev.com/ghpvc/?username=pdhawanjewar07&label=Profile%20views&color=0e75b6&style=flat" alt="pdhawanjewar07" /> </p>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -8,4 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pdhawanjewar07&show_icons=true&locale=en" alt="pdhawanjewar07" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pdhawanjewar07&show_icons=true&locale=en&layout=compact" alt="pdhawanjewar07" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pdhawanjewar07&show_icons=true&locale=en&layout=compact" alt="pdhawanjewar07" /></p>
