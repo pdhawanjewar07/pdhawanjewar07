@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
+<h2 align='center'>A Data science, AI/ML, software development enthusiast</h2>
 <img align='center' src="https://media.giphy.com/media/MYEXbYzn44C1G/giphy.gif" alt="lion_gif" />
-<h3 align='center'>A Data science, AI/ML, software development enthusiast</h3>
 <img align='right' src="https://komarev.com/ghpvc/?username=pdhawanjewar07&label=Profile%20views&color=0e75b6&style=flat" alt="pdhawanjewar07" />
 
 <h3 align="left">Languages and Tools:</h3>
