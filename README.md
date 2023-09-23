@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h2 align='center'>A Data science, AI/ML, software development enthusiast</h2>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
   <div style="margin-right: 20px;">
     <p><img src="https://media.giphy.com/media/N7Uq00XtBpUuQ/giphy.gif" alt="baymax_gif" /></p>
   </div>
