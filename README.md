@@ -4,7 +4,6 @@
 <p align='center'><img src="https://media.giphy.com/media/N7Uq00XtBpUuQ/giphy.gif" alt="baymax_gif" /></p>
 
 <p align='right' style="text-align: center;">
-  &nbsp;
   <a href="https://pdhawanjewar07.github.io/portfolio/">
     <img src="https://raw.githubusercontent.com/pdhawanjewar07/pdhawanjewar07/main/assets/my-website.png" alt="my-website" style="width: 100px; height: auto;" />
   </a>
