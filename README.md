@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h2 align='center'>A Data science, AI/ML, software development enthusiast</h2>
 <p align='center'><img src="https://media.giphy.com/media/N7Uq00XtBpUuQ/giphy.gif" alt="baymax_gif" /></p>
-<p align='right'>&nbsp;<a href="https://pdhawanjewar07.github.io/portfolio/"><img src="https://raw.githubusercontent.com/pdhawanjewar07/pdhawanjewar07/main/assets/my-website.png" alt="my-website" style="width: 100px; height: auto;" /></a></p>
+<p align='right'>&nbsp;<a href="https://pdhawanjewar07.github.io/portfolio/"><img src="https://raw.githubusercontent.com/pdhawanjewar07/pdhawanjewar07/main/assets/my-website.png" alt="my-website" style="width: 100px; height: auto;" /></a>My Website</p>
 
 <p align='center'><img src="https://komarev.com/ghpvc/?username=pdhawanjewar07&label=Profile%20views&color=0e75b6&style=flat" alt="pdhawanjewar07" /></p>
 
