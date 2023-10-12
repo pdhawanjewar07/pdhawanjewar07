@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h2 align='center'>A Data science, AI/ML, software development enthusiast</h2>
 
-<div id="main" style="display: flex; align-items: center; justify-content: center;">
+<div id="main" style="display: flex; align-items: center; justify-content: center;"><span>
     <img id="baymax" src="https://media.giphy.com/media/N7Uq00XtBpUuQ/giphy.gif" alt="baymax_gif" style="border-radius: 10px; width: 50%; max-width: 420px; min-height: 90%;" />
     <div id="pdhaw-views" style="margin-left: 15px; padding-right: 15px; display: flex; flex-direction: column; align-items: center; text-align: center;">
         <div>
@@ -13,7 +13,7 @@
         <div id="profile-views" style="margin-top: 3px; width: fit-content;">
             <img src="https://komarev.com/ghpvc/?username=pdhawanjewar07&label=Profile%20views&color=0e75b6&style=flat" alt="pdhawanjewar07" />
         </div>
-    </div>
+    </div><span/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
