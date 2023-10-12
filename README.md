@@ -7,7 +7,7 @@
             </span>
         </div>
 
-        <div id="main" style="display: flex; align-items: center; justify-content: center;">
+<div id="main" style="display: flex; align-items: center; justify-content: center;">
             <img id="baymax" src="https://media.giphy.com/media/N7Uq00XtBpUuQ/giphy.gif" alt="baymax_gif" style="border-radius: 10px; width: 50%; max-width: 420px; min-height: 90%;" />
             <div id="pdhaw-views" style="margin-left: 15px; padding-right: 15px; display: flex; flex-direction: column; align-items: center; text-align: center;">
                 <div>
@@ -21,7 +21,7 @@
             </div>
         </div>
 
-        <div id="tools-stats" style="display: flex; justify-content: center; text-align: center;">
+<div id="tools-stats" style="display: flex; justify-content: center; text-align: center;">
             <span>
                 <h3 style="font-size: 1.8rem;">Languages and Tools:</h3>
                 <div id="icons" style="display: flex; justify-content: center;">
@@ -49,7 +49,7 @@
                     <!-- Add the rest of the icons similarly -->
                 </div>
 
-                <div id="stats" style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; gap: 10px; margin-top: 20px;">
+<div id="stats" style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; gap: 10px; margin-top: 20px;">
                     <img src="https://github-readme-stats.vercel.app/api?username=pdhawanjewar07&show_icons=true&locale=en" alt="pdhawanjewar07" style="height: 150px; max-width: 100%;" />
                     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pdhawanjewar07&show_icons=true&locale=en&layout=compact" alt="pdhawanjewar07" style="height: 150px; max-width: 100%;" />
                 </div>
