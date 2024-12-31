@@ -39,6 +39,6 @@
 </p>
 
 <div style="width: 80vw; margin: 0; display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pdhawanjewar07&show_icons=true&locale=en" alt="pdhawanjewar07" style="width: auto; height: 170px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pdhawanjewar07&show_icons=true&locale=en&layout=compact" alt="pdhawanjewar07" style="width: auto; height: 170px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pdhawanjewar07&theme=dark&show_icons=true&locale=en" alt="pdhawanjewar07" style="width: auto; height: 170px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pdhawanjewar07&theme=dark&show_icons=true&locale=en&layout=compact" alt="pdhawanjewar07" style="width: auto; height: 170px;" />
 </div>
