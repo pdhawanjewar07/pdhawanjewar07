@@ -10,27 +10,6 @@
 </p>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=pdhawanjewar07&label=Profile%20views&color=0e75b6&style=flat" alt="pdhawanjewar07" /></p> -->
 
-<div style="width:100%; margin:0; padding:0;">
-  <table style="width:100%; border-collapse: collapse;">
-    <tr>
-      <th style="border: 1px solid black;">Header 1</th>
-      <th style="border: 1px solid black;">Header 2</th>
-      <th style="border: 1px solid black;">Header 3</th>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black;">Row 1, Col 1</td>
-      <td style="border: 1px solid black;">Row 1, Col 2</td>
-      <td style="border: 1px solid black;">Row 1, Col 3</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black;">Row 2, Col 1</td>
-      <td style="border: 1px solid black;">Row 2, Col 2</td>
-      <td style="border: 1px solid black;">Row 2, Col 3</td>
-    </tr>
-  </table>
-</div>
-
-
 
 | **Category**      | **Technologies**  |
 |-------------------|-------------------|
